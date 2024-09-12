@@ -1,0 +1,3 @@
+insert into vehicle(id, name) values (1,'aeroplane');
+insert into vehicle(id, name) values (2,'ship');
+insert into vehicle(id, name) values (3,'jet fighter');
